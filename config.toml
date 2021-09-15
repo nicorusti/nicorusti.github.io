@@ -12,18 +12,18 @@ title = "Nicola Rustignoli"
 
 
 # Main menu
-[[menu.main]]
-    name = "About"
-    url  = "/about"
-    weight = 2
-[[menu.main]]
-    name = "Publications"
-    url  = "/publications"
-    weight = 2
-[[menu.main]]
-    name = "Blog"
-    url  = "/posts"
-    weight = 3
+#[[menu.main]]
+#    name = "About"
+#    url  = "/about"
+#    weight = 2
+#[[menu.main]]
+#    name = "Publications"
+#    url  = "/publications"
+#    weight = 2
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/posts"
+#    weight = 3
 
 
 
@@ -78,18 +78,13 @@ title = "Nicola Rustignoli"
         [params.social.institution]
             name = "ETH Zürich"
             class = "fas fa-university"
-            url = ""
+            url = "https://netsec.ethz.ch/"
             weight = 5
         [params.social.linkedin]
             name = "LinkedIn"
             class = "fab fa-linkedin"
             url = "https://www.linkedin.com/in/nicola-rustignoli-830b7512/"
             weight = 6
-        [params.social.orcid]
-            name = "ORCID iD"
-            class = "fab fa-orcid"
-            url = ""
-            weight = 7
         [params.social.twitter]
             name = "Twitter"
             class = "fab fa-twitter"
