@@ -18,7 +18,7 @@ title = "Nicola Rustignoli"
     weight = 2
 [[menu.main]]
     name = "Talks - Articles"
-    url  = "/talks"
+    url  = "/talks/"
     weight = 2
 #[[menu.main]]
 #    name = "Blog"
