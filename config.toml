@@ -12,14 +12,14 @@ title = "Nicola Rustignoli"
 
 
 # Main menu
-#[[menu.main]]
-#    name = "About"
-#    url  = "/about"
-#    weight = 2
-#[[menu.main]]
-#    name = "Publications"
-#    url  = "/publications"
-#    weight = 2
+[[menu.main]]
+    name = "About"
+    url  = "/"
+    weight = 2
+[[menu.main]]
+    name = "Talks - Articles"
+    url  = "/talks"
+    weight = 2
 #[[menu.main]]
 #    name = "Blog"
 #    url  = "/posts"
@@ -33,7 +33,7 @@ title = "Nicola Rustignoli"
     [params.head]
         author = "Nicola Rustignoli"
         custom_css = ""
-        description = "Random network security, SD-WAN and tech stuff"
+        description = "Random network security, cloud and tech stuff"
         keywords = ["engineering", "SCION", "network security", "SD-WAN"]
 
     [params.navigation]
@@ -49,8 +49,8 @@ title = "Nicola Rustignoli"
     [params.colors]
         theme_color = "#333333"
         background_color = "#fcfbf9"
-        text_color = "#333333"
-        link_color = "#60c17d"
+        text_color = "#264653"
+        link_color = "#2a9d8f"
 
     [params.social]
         [params.social.email]
