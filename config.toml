@@ -33,7 +33,7 @@ title = "Nicola Rustignoli"
     [params.head]
         author = "Nicola Rustignoli"
         custom_css = ""
-        description = "Random network security, cloud and tech stuff"
+        description = "Internet security, cloud and tech"
         keywords = ["engineering", "SCION", "network security", "SD-WAN"]
 
     [params.navigation]
