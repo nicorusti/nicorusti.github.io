@@ -21,5 +21,3 @@ hide_title: true
 * **How Secure Can An Internet Be?**, May 2022, ITSPmagazine  <a href="https://itsprad.io/redefining-cybersecurity-53" target="_blank"> podcast <i class="icon-xs fa fa-desktop"></i></a>  
 
 * **Worldwide Eecure and Efficient Communication with SCION**, July 2021, ITU Emerging Technology for Connectivity  <a href="https://www.youtube.com/watch?v=FOMe5xE2ZAU" target="_blank"><i class="icon-xs fa fa-film"></i> Video</a>
-
-* **SAMOS**
