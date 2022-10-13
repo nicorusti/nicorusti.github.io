@@ -56,7 +56,7 @@ title = "Nicola Rustignoli"
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:nicola.rustignoli@inf.ethz.ch"
+            url = "mailto:nic@scion.org"
             weight = 1
         [params.social.github]
             name = "GitHub"
