@@ -3,7 +3,9 @@ title: "Talks - Articles"
 hide_title: true
 ---
 
-# Articles and publications
+# Contributions and publications
+
+* **OECD report: Routing security. BGP incidents, mitigation techniques and policy actions**, October 2022,  <a href="https://www.oecd.org/publications/routing-security-40be69c8-en.htm" target="_blank"> APNIC Blog <i class="icon-xs fa fa-desktop"></i>SCION contributions</a>  
 
 * **[The Complete Guide to SCION. From Design Principles to Formal Verification](https://link.springer.com/book/10.1007/978-3-031-05288-0)** June 2022, Springer International Publishing. Contributions to chapters 13, 14, 15
 
