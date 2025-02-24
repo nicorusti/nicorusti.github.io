@@ -20,15 +20,21 @@ hide_title: true
 
 # Internet Engineering Task Force (IETF)
 
-* **SCION: A Secure Internet Architecture**, 2022.  
+* **SCION Control-Plane PKI**, 2024.
+<a href="https://datatracker.ietf.org/doc/draft-dekater-scion-pki/" target="_blank"><i class="icon-xs fa fa-book"></i> draft-dekater-scion-pki</a>
+
+* **SCION Control-Plane**, 2024.  
+<a href="https://datatracker.ietf.org/doc/draft-dekater-scion-controlplane/" target="_blank"><i class="icon-xs fa fa-book"></i> draft-dekater-scion-controlplane</a>
+
+* **SCION Data-Plane**, 2024.  
+<a href="https://datatracker.ietf.org/doc/draft-dekater-scion-dataplane/" target="_blank"><i class="icon-xs fa fa-book"></i> draft-dekater-scion-dataplane</a>
+
+* **SCION Overview**, 2022.  
 <a href="http://datatracker.ietf.org/doc/draft-dekater-panrg-scion-overview/" target="_blank"><i class="icon-xs fa fa-book"></i> draft-dekater-panrg-scion-overview</a>
 
 * **SCION Components Analysis**, 2022.  
 <a href="https://datatracker.ietf.org/doc/draft-rustignoli-panrg-scion-components/" target="_blank"><i class="icon-xs fa fa-book"></i> draft-rustignoli-panrg-scion-components</a>  
 <a href="https://youtu.be/uU9mTKhcnmw?t=375" target="_blank"><i class="icon-xs fa fa-film"></i> Presentation</a>
-
-* **SCION Control-Plane PKI**, 2022.  
-<a href="https://datatracker.ietf.org/doc/draft-dekater-scion-pki/" target="_blank"><i class="icon-xs fa fa-book"></i> draft-dekater-scion-pki</a>
 
 
 # Talks 
